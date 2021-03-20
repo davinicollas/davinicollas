@@ -2,5 +2,5 @@
 
 
 
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=davinicollas&show_icons=true&locale=pt-br&layout=compact" alt = "davi nicollas" height ="400" width="300"/></p>
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=davinicollas&show_icons=true&locale=pt-br" alt = "davi nicollas" height ="400" width="300"/></p>
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=davinicollas&show_icons=true&locale=pt-br&layout=compact" alt = "davi nicollas" height ="400" width="500"/></p>
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=davinicollas&show_icons=true&locale=pt-br" alt = "davi nicollas" height ="400" width="500"/></p>

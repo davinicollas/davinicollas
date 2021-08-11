@@ -9,8 +9,6 @@
 
 
 <h3 align="left">Contato:</h3>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davinicollas)](https://github.com/davinicollas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davinicollas/)](https://www.linkedin.com/in/davinicollas/)
 
 <a href="https://www.linkedin.com/in/davi-nicollas" rel="nofollow">
     <img src="https://camo.githubusercontent.com/8fd41d51235a3804775fb35e34eabf41c112f58d42b269d956b2913a8cc4bec7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d6174657573617261756a6f626172726f732f" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=mailto:https://www.linkedin.com/in/davi-nicollas/" style="max-width:100%;">

@@ -1,86 +1,66 @@
-# 💼 Portfólio Full Stack
+# 👨‍💻 Davi Nicollas | Desenvolvedor de Software
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-0A66C2?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+Desenvolvedor de Software com formação em Ciência da Computação e experiência no desenvolvimento e na manutenção de sistemas.
 
-## 🚀 Tecnologias & Ferramentas
+Trabalho principalmente com **PHP, JavaScript, ExtJS e bancos de dados relacionais**, além de explorar tecnologias como Node.js e integração de APIs na construção de soluções web.
 
-### Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=javascript&logoColor=white)
+Gosto de aprender novas tecnologias, resolver problemas e transformar necessidades reais em aplicações úteis, buscando sempre melhorar a qualidade, a organização e a segurança do código.
+
+## 🚀 Tecnologias e ferramentas
 
 ### Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- PHP
+- Node.js
+- Java
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Front-end
+- JavaScript
+- HTML5
+- CSS3
+- ExtJS
+- Bootstrap
 
-### CMS
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### Bancos de dados
+- MySQL
+- PostgreSQL
+- SQL
 
-### Testes Automatizados
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+### Integrações e ferramentas
+- APIs REST
+- Git
+- GitHub
+- Docker
+- WordPress
 
-### Análise de Dados
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Testes e análise de dados
+- Cypress
+- Robot Framework
+- Power BI
+
+## 🧩 Projetos em destaque
+
+### 💰 Assistente Financeiro pelo WhatsApp
+Projeto pessoal em desenvolvimento para registrar receitas e despesas por mensagens e consultar informações financeiras.
+
+**Tecnologias:** Node.js, JavaScript, PostgreSQL, Docker, WhatsApp Cloud API e Gemini.
+
+O projeto envolve integração de APIs, interpretação de mensagens com inteligência artificial, armazenamento de dados e desenvolvimento de um dashboard web.
+
+> O sistema está em desenvolvimento e é executado localmente.
+
+### 🌐 Projetos de desenvolvimento web
+Experiências e estudos envolvendo desenvolvimento de aplicações web, integração com APIs, manipulação de dados e construção de funcionalidades utilizando diferentes tecnologias.
+
+Consulte os repositórios públicos para conhecer os códigos e detalhes de cada projeto.
+
+## 🎯 Objetivo profissional
+
+Continuar evoluindo como desenvolvedor de software, contribuindo para o desenvolvimento de aplicações confiáveis, bem estruturadas e úteis para as pessoas.
+
+Tenho interesse em oportunidades de desenvolvimento **Full Stack e Back-end**, especialmente com PHP, JavaScript, Node.js e bancos de dados relacionais.
 
 ---
 
-## 👨‍💻 Sobre o Projeto
+📌 Confira meus repositórios para acompanhar meus estudos e projetos.
 
-Este repositório reúne projetos e estudos focados em **desenvolvimento Full Stack**, abrangendo desde a criação de interfaces web responsivas até a implementação de back-end, integração com banco de dados e análise de dados com **Power BI**.
-
-O objetivo é demonstrar habilidades técnicas, boas práticas de desenvolvimento e soluções completas para aplicações web.
-
----
-
-## 🧩 Funcionalidades Desenvolvidas
-
-- Interfaces web responsivas
-- Lógica de negócio no back-end
-- Integração com banco de dados MySQL
-- Criação e execução de consultas SQL
-- Dashboards e relatórios interativos no Power BI
-- Arquitetura Full Stack
-
----
-
-## 📂 Estrutura do Repositório
-
-```bash
-📁 frontend
- ├── HTML
- └── CSS
- └── JAVASCRIPT
- └── Bootstrap
- └── TypeScript
- └── CSS3
-AJAX
-📁 backend
- ├── JAVA
- └── PHP
- └── NestJS
-
-📁 database
- ├── MYSQL
- └── SLQ
- └── POSTGRESQL
-
-📁 Testes Automatizados
- ├── Robot Framework
-
-📁 CMS
- ├── WordPress
- └── Cypress
-
-📁 powerbi
- └── DASHBOARDS
+🔗 **GitHub:** [github.com/davinicollas](https://github.com/davinicollas)
